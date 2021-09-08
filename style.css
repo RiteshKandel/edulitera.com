@@ -301,6 +301,11 @@ html{
     .navlist{
         width: 100%;
     }
+    .logo{
+       height: 50%;
+       width: 50%;
+       border-radius: 50%;
+    }
   
     .background{
         width: 100%;
