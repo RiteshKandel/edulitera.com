@@ -42,7 +42,7 @@ html{
     
 }
 .navlist{
-    width: 70%;
+    width: 80%;
     display: flex;
     align-items: center;
    
@@ -64,7 +64,7 @@ html{
     
 }
 .rightnav{
-    width: 30%;
+    width: 20%;
     padding: 20px;
     text-align: right;
 }
@@ -107,9 +107,11 @@ html{
 
 .text-big{
     font-size: 50px;
+    color: white;
 }
 .text-small{
     font-size: 30px;
+    color: white;
 }
 .btn{
     padding: 8px 20px;
