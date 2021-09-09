@@ -158,6 +158,10 @@ html{
 .sectionsubtag{
     font-family: sans-serif;
 }
+.list{
+    font-size: 30px;
+    
+}
 
 .thumbnail img{
     padding: 0;
@@ -284,6 +288,11 @@ html{
         
         
     }
+    .logo{
+        height: 50%;
+        width: 50%;
+        border-radius: 50%;
+    }
     .vb{
        padding: 5px 5px;
        text-align: center;
@@ -300,11 +309,6 @@ html{
     }
     .navlist{
         width: 100%;
-    }
-    .logo{
-       height: 50%;
-       width: 50%;
-       border-radius: 50%;
     }
   
     .background{
