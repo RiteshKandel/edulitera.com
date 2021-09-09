@@ -1,0 +1,56 @@
+
+img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+body{
+    
+    background:rgba(0, 0, 0, 0.7) url('./background.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+center{
+    margin-top: 10%
+}
+p1{
+    padding: 10px 10px;
+    color: white;
+    font-size: xx-large;
+ 
+}
+p{
+    color: white;
+    font-size: larger;
+
+}
+
+ul{
+ 
+    padding: 0 0;
+    color: white;
+    font-size: larger;
+    list-style: none;
+
+
+}
+footer{
+    background:rgba(0, 0, 0, 0.7) url('./background.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+    text-align: end;
+
+    color: white;
+
+
+}
+.container{
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    color: white;
+    
+}
+.text-gray-500{
+    color: white;
+}
